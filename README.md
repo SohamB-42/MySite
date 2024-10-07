@@ -6,7 +6,7 @@
 
 
 <p style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
-Currently a B.Tech student at IIIT Sri City. I'm interested in tech, creativity, and a good books. Outside of coding, I enjoy exploring new hobbies and learning new things everyday.
+Currently a B.Tech student at IIIT Sri City. I'm interested in tech, creativity, and reading story books. Outside of coding, I enjoy exploring new hobbies and learning new things everyday.
 
 </p>
 
@@ -21,7 +21,10 @@ Currently a B.Tech student at IIIT Sri City. I'm interested in tech, creativity,
 <ul style="font-family: Georgia, serif; font-size: 16px; color: #2c3e50;">
  
   <li>Music = relaxation 🎧</li>
-  <li>I'm obsessed with any and all tech 🌐</li>
+  <li>I'm interested about anything related to oter space explorations 🪐 </li>
+  <li>I'm a huge Percy Jackson fan and read all PJO and HOO books ⚔️</li>
+  <li>I'm obsessed with Spider-man 🕸️🕷</li>
+  
 </ul>
 
 <h2 style="font-family: Georgia, serif; color: #34495e;">/Contact Me </h2>
