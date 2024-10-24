@@ -24,6 +24,7 @@ Currently a B.Tech student at IIIT Sri City. I'm interested in tech, creativity,
   <li>I'm interested about anything related to oter space explorations 🪐 </li>
   <li>I'm a huge Percy Jackson fan and read all PJO and HOO books ⚔️</li>
   <li>I'm obsessed with Spider-man 🕸️🕷</li>
+  <li>I am an avid football fan and my favourite team is FC Barcelona ❤️💙</li>
   
 </ul>
 
